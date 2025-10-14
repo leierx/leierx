@@ -27,4 +27,4 @@
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leierx&layout=compact&card_width=320&theme=tokyonight&hide_title=true#gh-dark-mode-only)
 
-<img src="./assets/under-construction.gif" alt="Under Construction" width="100%"/>
+<a target="_blank" rel="noopener noreferrer" href="/leierx/leierx/blob/main/assets/under-construction.gif"><img src="/leierx/leierx/raw/main/assets/under-construction.gif" width="100%" alt="" data-animated-image="" style="max-width: 100%;"></a>
