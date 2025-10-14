@@ -6,6 +6,7 @@
   </nobr>
 </p>
 
+<p align="center">
 <table>
   <tr>
     <td>
@@ -36,6 +37,7 @@
     </td>
   </tr>
 </table>&nbsp;&nbsp;
+</p>
 
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=leierx&layout=compact&card_width=320&theme=tokyonight#gh-dark-mode-only"
