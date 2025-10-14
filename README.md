@@ -1,11 +1,9 @@
-<p align="center">
-  <img src="./assets/nix-logo.png" width="40" alt="NixOS logo" style="vertical-align:middle;margin:0 8px;">
-  <b>All my configs are flakey, but reproducibly so</b>
-  <img src="./assets/nix-logo.png" width="40" alt="NixOS logo" style="vertical-align:middle;margin:0 8px;">
-</p>
+<h1>All my configs are flakey, but reproducibly so<h1/>
+<img src="./assets/nix-logo.png" width="40" >
+<img src="./assets/nix-logo.png" width="40" align="right" >
 
-<h1>Certs<h1/>
-<div align="center">
+<h2>Certs<h2/>
+<div>
   <a href="https://www.credly.com/badges/28e37dec-96a5-4fe6-8d76-65be1c523f84/public_url"
      target="_blank" rel="noopener noreferrer"
      title="CKA • Completed: 21.10.2024">
@@ -28,7 +26,8 @@
   </a>
 </div>
 
-<h1>Most Used Languages<h1/>
+<h2>Most Used Languages<h2/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leierx&layout=compact&card_width=320&theme=tokyonight&hide_title=true#gh-dark-mode-only" width="280"/>
+
 
 <img src="./assets/under-construction.gif" width="100%" alt=""/>
