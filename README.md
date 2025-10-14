@@ -1,8 +1,16 @@
-<h3 align="center">
-  <img src="./assets/nix-logo.png" width="40" alt="NixOS logo">
-  &nbsp;<strong>All my configs are flakey, but reproducibly so</strong>&nbsp;
-  <img src="./assets/nix-logo.png" width="40" alt="NixOS logo">
-</h3>
+<table align="center">
+  <tr>
+    <td valign="middle">
+      <img src="./assets/nix-logo.png" width="40" alt="NixOS logo">
+    </td>
+    <td valign="middle" align="center">
+      <strong>All my configs are flakey, but reproducibly so</strong>
+    </td>
+    <td valign="middle">
+      <img src="./assets/nix-logo.png" width="40" alt="NixOS logo">
+    </td>
+  </tr>
+</table>
 
 ## Certs
 <p>
@@ -35,4 +43,4 @@
   width="320"
 />
 
-<img src="https://github.com/leierx/leierx/blob/main/assets/under-construction.gif?raw=true" width="100%"/>
+<img src="https://github.com/leierx/leierx/blob/main/assets/under-construction.gif" width="100%"/>
