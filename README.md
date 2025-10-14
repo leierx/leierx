@@ -6,7 +6,7 @@
   <img src="./assets/nix-logo.png" width="40" alt="NixOS logo" style="vertical-align: middle;"/>
 </div>
 
-<h2>Certs<h2/>
+## Certs
 <p>
   <a href="https://www.credly.com/badges/28e37dec-96a5-4fe6-8d76-65be1c523f84/public_url"
      target="_blank" rel="noopener noreferrer"
