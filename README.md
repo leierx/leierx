@@ -6,7 +6,6 @@
   </nobr>
 </p>
 
-<p align="center">
 <table>
   <tr>
     <td>
@@ -36,13 +35,12 @@
       <sub><b>Terraform Associate (003)</b><br/>13.10.2025</sub>
     </td>
   </tr>
-</table>
+</table>&nbsp;&nbsp;
 
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=leierx&layout=compact&card_width=320&theme=tokyonight#gh-dark-mode-only"
   alt="Top Languages"
   width="280">
-</p>
 
 <p align="center">
   <img src="./assets/under-construction.gif" width="100%" alt=""/>
