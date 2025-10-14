@@ -6,7 +6,6 @@
   </h3>
 </div>
 
-<br>
 
 <h3 align="center">🎓 Certs</h3>
 
@@ -32,6 +31,7 @@
     <img src="./assets/badge_icons/terraform-associate-003.png" alt="Terraform Associate (003)" width="100"/>
   </a>
 </p>
+<br>
 
 <h3 align="center">📊 Most Used Languages</h3>
 
@@ -42,7 +42,6 @@
     width="320"
   />
 </p>
+<br>
 
-<p align="center">
-  <img src="./assets/under-construction.gif" width="100%" alt="Under Construction"/>
-</p>
+<img src="./assets/under-construction.gif" width="100%" alt="Under Construction"/>
