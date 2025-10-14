@@ -1,12 +1,13 @@
 <p align="center">
-  <img src="./assets/nix-logo.png" width="48" alt="NixOS logo" />
-  &nbsp;
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=5200&pause=1800&color=5C6BC0&center=true&vCenter=true&width=520&lines=All+my+configs+are+flakey,+but+reproducibly+so&repeat=false"
-    alt="All my configs are flakey, but reproducibly so"
-  />
-  &nbsp;
-  <img src="./assets/nix-logo.png" width="48" alt="NixOS logo" />
+  <nobr>
+    <img src="./assets/nix-logo.png" width="40" alt="NixOS logo" style="vertical-align:middle;margin:0 8px;" />
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=5200&pause=1800&color=5C6BC0&center=true&vCenter=true&width=520&lines=All+my+configs+are+flakey,+but+reproducibly+so&repeat=false"
+      alt="All my configs are flakey, but reproducibly so"
+      style="vertical-align:middle;"
+    />
+    <img src="./assets/nix-logo.png" width="40" alt="NixOS logo" style="vertical-align:middle;margin:0 8px;" />
+  </nobr>
 </p>
 
 <table align="center">
