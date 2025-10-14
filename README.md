@@ -1,4 +1,5 @@
-<h3>🎓 Certs</h3>
+<h3 align="center">🎓 Certs</h3>
+<hr>
 
 <p>
   <a href="https://www.credly.com/badges/28e37dec-96a5-4fe6-8d76-65be1c523f84/public_url"
@@ -24,7 +25,8 @@
 </p>
 <br>
 
-<h3>📊 Most Used Languages</h3>
+<h3 align="center">📊 Most Used Languages</h3>
+<hr>
 
 <p>
   <img
