@@ -1,12 +1,6 @@
-<div align="center">
-  <img src="./assets/nix-logo.png" width="40" alt="NixOS logo" />
-  <h1> All my configs are flakey, but reproducibly so </h1>
-  <img src="./assets/nix-logo.png" width="40" alt="NixOS logo" />
-</div>
+<h3>🎓 Certs</h3>
 
-<h3 align="center">🎓 Certs</h3>
-
-<p align="center">
+<p>
   <a href="https://www.credly.com/badges/28e37dec-96a5-4fe6-8d76-65be1c523f84/public_url"
      target="_blank" rel="noopener noreferrer"
      title="CKA • Completed: 21.10.2024">
@@ -30,9 +24,9 @@
 </p>
 <br>
 
-<h3 align="center">📊 Most Used Languages</h3>
+<h3>📊 Most Used Languages</h3>
 
-<p align="center">
+<p>
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=leierx&layout=compact&card_width=320&theme=tokyonight&hide_title=true#gh-dark-mode-only"
     alt="Top Languages"
