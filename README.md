@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="./assets/Nix_snowflake.svg" width="56" alt="NixOS logo" />
+  <img src="./assets/Nix_Snowflake_Logo.svg" width="56" alt="NixOS logo" />
   &nbsp;&nbsp;&nbsp;
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=5000&pause=2000&color=5C6BC0&center=true&vCenter=true&width=640&lines=All+my+configs+are+flakey,+but+reproducibly+so&repeat=false"
     alt="All my configs are flakey, but reproducibly so"
   />
   &nbsp;&nbsp;&nbsp;
-  <img src="./assets/Nix_snowflake.svg" width="56" alt="NixOS logo" />
+  <img src="./assets/Nix_Snowflake_Logo.svg" width="56" alt="NixOS logo" />
 </p>
 
 <table align="center">
