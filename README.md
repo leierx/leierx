@@ -6,9 +6,9 @@
   </nobr>
 </p>
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center">
+    <td>
       <table>
         <tr>
           <td>
