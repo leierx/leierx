@@ -37,12 +37,12 @@
     </td>
   </tr>
 </table>&nbsp;&nbsp;
-</p>
 
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=leierx&layout=compact&card_width=320&theme=tokyonight#gh-dark-mode-only"
   alt="Top Languages"
   width="280">
+</p>
 
 <p align="center">
   <img src="./assets/under-construction.gif" width="100%" alt=""/>
