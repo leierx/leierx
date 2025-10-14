@@ -1,10 +1,8 @@
-<div align="center">
-  <img src="./assets/nix-logo.png" width="40" alt="NixOS logo" style="vertical-align: middle;"/>
-  <span style="font-size:22px; font-weight:bold; margin: 0 12px; vertical-align: middle;">
-    All my configs are flakey, but reproducibly so
-  </span>
-  <img src="./assets/nix-logo.png" width="40" alt="NixOS logo" style="vertical-align: middle;"/>
-</div>
+<h3 align="center">
+  <img src="./assets/nix-logo.png" width="40" alt="NixOS logo">
+  &nbsp;<strong>All my configs are flakey, but reproducibly so</strong>&nbsp;
+  <img src="./assets/nix-logo.png" width="40" alt="NixOS logo">
+</h3>
 
 ## Certs
 <p>
@@ -30,7 +28,11 @@
   </a>
 </p>
 
-<h2>Most Used Languages<h2/>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=leierx&layout=compact&card_width=320&theme=tokyonight&hide_title=true#gh-dark-mode-only"/>
+## Most Used Languages
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=leierx&layout=compact&card_width=320&theme=tokyonight&hide_title=true#gh-dark-mode-only"
+  alt="Top Languages"
+  width="320"
+/>
 
 <img src="https://github.com/leierx/leierx/blob/main/assets/under-construction.gif?raw=true" width="100%"/>
