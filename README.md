@@ -6,7 +6,7 @@
   </nobr>
 </p>
 
-<table width="100%">
+<table style="border-style: none;">
   <tr>
     <td>
       <table>
