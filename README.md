@@ -1,4 +1,19 @@
-# ❄️ All my configs are flakey, but reproducibly so ❄️
+<table align="center">
+  <tr>
+    <td align="center" width="12%">
+      <img src="./assets/Nix_Snowflake_Logo.svg" width="56" alt="NixOS logo">
+    </td>
+    <td align="center" width="76%">
+      <img
+        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=5000&pause=2000&color=5C6BC0&center=true&vCenter=true&width=640&lines=All+my+configs+are+flakey,+but+reproducibly+so&repeat=false"
+        alt="typing banner"
+      />
+    </td>
+    <td align="center" width="12%">
+      <img src="./assets/Nix_Snowflake_Logo.svg" width="56" alt="NixOS logo">
+    </td>
+  </tr>
+</table>
 
 <table align="center">
   <tr>
@@ -30,3 +45,7 @@
     <td align="center"><sub><b>Terraform Associate (003)</b><br/>Completed: 13.10.2025</sub></td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="./assets/under-construction.gif" width="100%" alt=""/>
+</p>
