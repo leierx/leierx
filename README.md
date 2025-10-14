@@ -1,12 +1,8 @@
 <p align="center">
   <nobr>
-    <img src="./assets/nix-logo.png" width="40" alt="NixOS logo" style="vertical-align:middle;margin:0 8px;" />
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=5200&pause=1800&color=5C6BC0&center=true&vCenter=true&width=520&lines=All+my+configs+are+flakey,+but+reproducibly+so&repeat=false"
-      alt="All my configs are flakey, but reproducibly so"
-      style="vertical-align:middle;"
-    />
-    <img src="./assets/nix-logo.png" width="40" alt="NixOS logo" style="vertical-align:middle;margin:0 8px;" />
+    <img src="./assets/nix-logo.png" width="40" alt="NixOS logo" style="vertical-align:middle;margin:0 8px;">
+    <b style="font-size:22px;vertical-align:middle;">All my configs are flakey, but reproducibly so</b>
+    <img src="./assets/nix-logo.png" width="40" alt="NixOS logo" style="vertical-align:middle;margin:0 8px;">
   </nobr>
 </p>
 
@@ -40,6 +36,8 @@
     <td align="center"><sub><b>Terraform Associate (003)</b><br/>Completed: 13.10.2025</sub></td>
   </tr>
 </table>
+
+![Top Langs (dark only)](https://github-readme-stats.vercel.app/api/top-langs/?username=leierx&layout=compact&theme=tokyonight#gh-dark-mode-only)
 
 <p align="center">
   <img src="./assets/under-construction.gif" width="100%" alt=""/>
