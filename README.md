@@ -1,7 +1,7 @@
 <p align="center">
   <nobr>
     <img src="./assets/nix-logo.png" width="40" alt="NixOS logo" style="vertical-align:middle;margin:0 8px;">
-    <span><b>All my configs are flakey, but reproducibly so</b></span>
+    <span style="vertical-align:middle;"><b>All my configs are flakey, but reproducibly so</b></span>
     <img src="./assets/nix-logo.png" width="40" alt="NixOS logo" style="vertical-align:middle;margin:0 8px;">
   </nobr>
 </p>
