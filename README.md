@@ -37,4 +37,4 @@
 </p>
 <br>
 
-<img src="https://github.com/leierx/leierx/blob/main/assets/under-construction.gif" width="100%" alt="Under Construction"/>
+<img src="https://github.com/leierx/leierx/blob/main/assets/under-construction.gif" width="100%"/>
