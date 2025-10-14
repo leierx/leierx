@@ -31,6 +31,6 @@
 </p>
 
 <h2>Most Used Languages<h2/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leierx&layout=compact&card_width=320&theme=tokyonight&hide_title=true#gh-dark-mode-only)
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=leierx&layout=compact&card_width=320&theme=tokyonight&hide_title=true#gh-dark-mode-only"/>
 
 <img src="https://github.com/leierx/leierx/blob/main/assets/under-construction.gif?raw=true" width="100%"/>
