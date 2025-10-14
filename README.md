@@ -1,16 +1,10 @@
-<table align="center">
-  <tr>
-    <td valign="middle">
-      <img src="./assets/nix-logo.png" width="40" alt="NixOS logo">
-    </td>
-    <td valign="middle" align="center">
-      <strong>All my configs are flakey, but reproducibly so</strong>
-    </td>
-    <td valign="middle">
-      <img src="./assets/nix-logo.png" width="40" alt="NixOS logo">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="./assets/nix-logo.png" width="40" alt="NixOS logo" align="left" />
+  <h3 style="display:inline-block; margin:0;">
+    <strong>All my configs are flakey, but reproducibly so</strong>
+  </h3>
+  <img src="./assets/nix-logo.png" width="40" alt="NixOS logo" align="right" />
+</div>
 
 <h3 align="center">🎓 Certs</h3>
 
