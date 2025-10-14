@@ -1,6 +1,8 @@
 <div align="center">
   <img src="./assets/nix-logo.png" width="40" alt="NixOS logo" />
-  <h1 style="display:inline-block; margin:0;"> <strong>All my configs are flakey, but reproducibly so</strong> </h1>
+  <span style="font-size:22px; font-weight:bold; margin: 0 12px;">
+    All my configs are flakey, but reproducibly so
+  </span>
   <img src="./assets/nix-logo.png" width="40" alt="NixOS logo" />
 </div>
 
