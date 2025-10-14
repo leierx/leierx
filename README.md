@@ -1,9 +1,7 @@
 <p align="center">
   <nobr>
     <img src="./assets/nix-logo.png" width="40" alt="NixOS logo" style="vertical-align:middle;margin:0 8px;">
-    <span style="display:inline-block;vertical-align:middle;line-height:40px;font-weight:700;font-size:22px;">
-      All my configs are flakey, but reproducibly so
-    </span>
+    <span style="vertical-align:middle;"><b>All my configs are flakey, but reproducibly so</b></span>
     <img src="./assets/nix-logo.png" width="40" alt="NixOS logo" style="vertical-align:middle;margin:0 8px;">
   </nobr>
 </p>
@@ -43,14 +41,19 @@
         </tr>
       </table>
     </td>
+    <td width="40%" valign="top" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=leierx&layout=compact&card_width=320&theme=tokyonight#gh-dark-mode-only"
+        alt="Top Languages"
+        width="340">
+      <br/>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=leierx&show_icons=true&hide_title=true&theme=tokyonight#gh-dark-mode-only"
+        alt="GitHub Stats"
+        width="340">
+    </td>
   </tr>
 </table>
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=leierx&layout=compact&card_width=275&theme=tokyonight&langs_count=8#gh-dark-mode-only" 
-  alt="Top Languages" 
-  align="right" 
-  width="295">
 
 <p align="center">
   <img src="./assets/under-construction.gif" width="100%" alt=""/>
