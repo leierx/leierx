@@ -6,10 +6,9 @@
   </nobr>
 </p>
 
-<table width="100%">
+<table>
   <tr>
-    <!-- LEFT: Certifications 2x2 -->
-    <td width="60%" valign="top" align="center">
+    <td align="center">
       <table>
         <tr>
           <td align="center" width="50%">
@@ -41,16 +40,12 @@
         </tr>
       </table>
     </td>
-    <td width="40%" valign="top" align="center">
+    <td>
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=leierx&layout=compact&card_width=320&theme=tokyonight#gh-dark-mode-only"
         alt="Top Languages"
         width="340">
       <br/>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=leierx&show_icons=true&hide_title=true&theme=tokyonight#gh-dark-mode-only"
-        alt="GitHub Stats"
-        width="340">
     </td>
   </tr>
 </table>
